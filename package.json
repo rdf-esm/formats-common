@@ -34,7 +34,7 @@
     "rdfxml-streaming-parser": "^1.2.0"
   },
   "devDependencies": {
-    "@types/rdf-js": "^2.0.0",
+    "@types/rdf-js": "^3.0.1",
     "mocha": "^5.2.0",
     "c8": "^7.1.2",
     "standard": "^14.3.4"
